@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ripgrep",
+    "owner": "BurntSushi",
+    "description": "A fast command line search tool that respects your gitignore rules.",
+    "language": "Rust",
+    "stars": 52400,
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "starredAt": "2026-09-18"
+  },
+  {
+    "name": "htmx",
+    "owner": "bigskysoftware",
+    "description": "HTML extensions for making modern user interfaces with simple markup.",
+    "language": "JavaScript",
+    "stars": 46000,
+    "url": "https://github.com/bigskysoftware/htmx",
+    "starredAt": "2026-09-11"
+  },
+  {
+    "name": "shadcn-ui",
+    "owner": "shadcn",
+    "description": "Beautifully designed components that you can copy and paste into your apps.",
+    "language": "TypeScript",
+    "stars": 98000,
+    "url": "https://github.com/shadcn-ui/ui",
+    "starredAt": "2026-09-04"
+  },
+  {
+    "name": "sqlite",
+    "owner": "sqlite",
+    "description": "A small, fast, self-contained SQL database engine.",
+    "language": "C",
+    "stars": 7700,
+    "url": "https://github.com/sqlite/sqlite",
+    "starredAt": "2026-08-27"
+  }
+]
